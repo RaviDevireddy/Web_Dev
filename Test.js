@@ -4,7 +4,7 @@
 
 <h2>What Can JavaScript Do?</h2>
 
-<p id="demo">JavaScript can change HTML content.,yes it do change </p>
+<p id="demo">JavaScript can change HTML content.,yes it do change, few more </p>
 
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
 
